@@ -1,4 +1,4 @@
-# 05_my_project02
+# 05_my_project
 
 # Installation
 
