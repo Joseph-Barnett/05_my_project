@@ -3,20 +3,21 @@
 #Installation
 
 ` Open Gitbash
-` Clone the repo
-` navigate to where you saved the repo
-` cd into it and type code .
-` make sure you open docker
-` type npm install in terminal
-` type docker compose up
+` Clone this repo into a destination of your choice by typing in the terminal 
+  "git clone git@github.com:Joseph-Barnett/05_my_project.git"
+` Cd into the directory where you cloned the repo
+` Open Docker 
+` Type npm install in terminal
+` Type docker compose up
+` You will then be able to view the website by following the links down below 
+  for the client and server
 
-##Accessing the website
+#Website Links
 
-- you can find the website with the following links
-- The server: http://localhost:3000/
-- The client: http://localhost:8080/
+` The server: http://localhost:3000/
+` The client: http://localhost:8080/
 
-##Ending proccess
+#Ending proccess
 
-- to finish with docker type control and c at the same time
-- then type docker compose down
+` To finish with docker type control and c at the same time
+` Then type docker compose down
