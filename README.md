@@ -1,14 +1,14 @@
 # 05_my_project02
 
-##Installation
+#Installation
 
-- Open Gitbash
-- Clone the repo
-- navigate to where you saved the repo
-- cd into it and type code .
-- make sure you open docker
-- type npm install in terminal
-- type docker compose up
+` Open Gitbash
+` Clone the repo
+` navigate to where you saved the repo
+` cd into it and type code .
+` make sure you open docker
+` type npm install in terminal
+` type docker compose up
 
 ##Accessing the website
 
