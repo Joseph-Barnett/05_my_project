@@ -2,13 +2,15 @@
 
 # Installation
 
-- Open Gitbash
-- Clone this repo into a destination of your choice and then type in the terminal 
+- Open Git Bash
+- Create an empty folder
+- Cd into said folder and in the terminal copy and paste
   `"git clone git@github.com:Joseph-Barnett/05_my_project.git"`
-- Cd into the directory where you cloned the repo
+- Cd into the folder where you cloned the repo
+- Type `code .`
 - Open the Docker app on your computer 
-- Type `npm install` in terminal
-- Type `docker compose up`
+- Type `npm install` in terminal inside of vscode
+- Type `docker compose up` in terminal inside of vscode
 - You will then be able to view the website by following the links down below 
   for the client and server
 
@@ -19,5 +21,5 @@
 
 # Ending proccess
 
-- To finish with docker `type control and c` at the same time
-- Then type `docker compose down`
+- To finish with docker `type control and c` at the same time in the terminal in vscode
+- Then type `docker compose down` in terminal inside of vscode
