@@ -16,7 +16,7 @@
 
 # Website Links
 
-- The server: http://localhost:3000/
+- The server: http://localhost:3000/data
 - The client: http://localhost:8080/
 
 # Ending proccess
